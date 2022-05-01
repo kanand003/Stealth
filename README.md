@@ -1,3 +1,4 @@
 # Stealth
 
-Developed with Unreal Engine 4
+Tried recreating a BOT Ai in Unreal Engine.
+Click on the image below to see the progress made
